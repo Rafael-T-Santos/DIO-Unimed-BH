@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Fagner"},
+                  "SongTitle": {"S": "Borbulhas de amor"},
+                  "AlbumTitle": {"S": "Pedras que cantam"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Ze Ramalho"},
+                  "SongTitle": {"S": "Avohai"},
+                  "AlbumTitle": {"S": "Coletiva de Musica Paraibana"},
+                  "SongYear": {"S": "1976"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Reginaldo Rossi"},
+                  "SongTitle": {"S": "Garcon"},
+                  "AlbumTitle": {"S": "Teu Melhor Amigo"},
+                  "SongYear": {"S": "1987"}
+                }
+            }
+        }
+      ]
+}
